@@ -91,5 +91,8 @@ The dataset used in this project is stored in `Apple Quality.csv` and contains v
   - Although most apples fall within a small radius of variation with few outliers, these variables, when compared with the target (quality), provide insight into the factors contributing to overall apple quality.
   - Even without strong correlation between every attribute, the relative influence of size, sweetness, and ripeness is evident.
 
+## Link to Presentation
+- https://docs.google.com/presentation/d/1Q--Qzpp281H3tJIch0r0MjyjS4DudtXjsJxvFEIw94I/edit?usp=sharing
+  
 ## Contributing
 Feel free to fork this repository and submit pull requests for improvements.
