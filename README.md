@@ -71,11 +71,11 @@ The dataset used in this project is stored in `Apple Quality.csv` and contains v
   - Outperformed other distance metrics with an accuracy of **75.05%**.
   - Demonstrates that using attributes such as ripeness, sweetness, and size, the model can predict apple quality with great accuracy.
 
-## Euclidean Distance Metric:**  
+## Euclidean Distance Metric:
   - Achieved an accuracy of **74.4%**.
   - Considered a worse generalization since, despite relatively high training and testing accuracies, it recorded the lowest overall accuracy and dipped at higher values of k, indicating underfitting.
 
-## Minkowski Distance Metric:**  
+## Minkowski Distance Metric: 
   - Achieved an accuracy of **74.5%**.
   - Demonstrated good generalization as the accuracy did not dip at higher values of k; however, the values fluctuated between 74% and 76%, suggesting less stability compared to Manhattan.
 
